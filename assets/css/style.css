@@ -1,0 +1,21 @@
+* {
+    font-family: Helvetica, sans-serif;
+    color: rgb(200, 220, 150);
+}
+body {
+    background-color: rgb(30, 15, 15);
+}
+header {
+    position: fixed;
+    background-color: rgb(122, 103, 73);
+}
+.nav-bar {
+    display: inline;
+}
+p {
+    max-width: 600px;
+}
+.contact-form {
+    display:block;
+    color: rgb(0, 0, 0);
+}
